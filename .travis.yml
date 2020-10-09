@@ -3,3 +3,9 @@ node_js: 12.16.1
 script:
   - npm test
   - npm run build
+
+deploy:
+  provider: heroku
+  app: health-assistant-client
+  api_key:
+    secure: $Heroku_API
