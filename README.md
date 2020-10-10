@@ -27,5 +27,21 @@ Please create every pull request to dev branch.
 
 All the checks should be passed to merge PRs.
 
+## Folder Structure
+initial folder structure as follow
+```bash
+src
+--components
+-----Button.js
+-----TextField.js
+--container
+-----HomePage.js
+-----SignInPage.js
+-----SignUpPage.js
+--images
+-----logo.jpg
+```
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
