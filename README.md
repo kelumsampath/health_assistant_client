@@ -4,7 +4,8 @@ Personal health care stats record application.
 
 ## Installation / Available Scripts
 
-First, get local clone of the repository
+First, Get local clone of the repository
+
 
 Install all the dependencies for the project. See the section about install a package for more information.
 ```bash
