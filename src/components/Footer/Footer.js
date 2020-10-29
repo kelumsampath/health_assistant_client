@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope, FaFacebook, FaTwitter, FaLinkedinIn, FaGithubAlt } from 'react-icons/fa';
 
-import "./Footer.scss";
+import "./../styles/Footer.scss";
 
 const Footer = () => {
     return (

@@ -5,7 +5,7 @@ import {faEnvelope, faLock} from "@fortawesome/free-solid-svg-icons";
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import LOGIN_IMAGE from "../assets/images/login-image.jpg";
 
-import "./SignInPage.scss";
+import "./styles/SignInPage.scss";
 
 const Login = () => {
     const [signInEmail, setSignInEmail] = useState('');
