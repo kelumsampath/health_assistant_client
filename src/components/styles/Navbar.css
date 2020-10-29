@@ -57,3 +57,7 @@
 .Nav button:hover {
     background-color: rgba(0, 136, 169, 0.8);;
 }
+
+.Nav-link li {
+  cursor: pointer;
+}
