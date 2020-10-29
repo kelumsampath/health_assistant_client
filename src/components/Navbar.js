@@ -1,6 +1,6 @@
 import React from "react";
-import "./Nav.css";
-import NavLogo from "./images/HealthAssistantLogo.png";
+import "./styles/Navbar.css";
+import NavLogo from "../assets/images/logo.png";
 
 function Nav() {
     return (
