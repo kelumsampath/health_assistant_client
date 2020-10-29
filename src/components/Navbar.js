@@ -9,13 +9,13 @@ function Nav() {
 
             <nav>
                 <ul className='Nav-link'>
-                    <li><a href='#'>Services</a></li>
-                    <li><a href='#'>Project</a></li>
-                    <li><a href='#'>About</a></li>
+                    <li>Services</li>
+                    <li>Project</li>
+                    <li>About</li>
                 </ul>
             </nav>
 
-            <a href='#'><button>Contact</button></a>
+            <button>Contact</button>
         </header>
     );
 }
