@@ -1,10 +1,11 @@
 import React from "react";
-import HomePage from './container/HomePage'
+
+import AppRouter from './routes/AppRouter';
 
 export default class App extends React.Component {
 	render(){
 		return (
-			<HomePage></HomePage>
+			<AppRouter />
 		);
 	}
 }

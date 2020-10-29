@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
-export default class Register extends Component {
+export default class Services extends Component {
     render() {
         return (
-            <h1>Register page</h1>
+            <h1>Services page</h1>
         )
     }
 }
